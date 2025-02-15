@@ -26,6 +26,8 @@
 -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
 --
 
+set _VERSION to "2.0.0"
+
 on get_animals_password(number_of_animals)
 	set the_numbers to "0123456789"
 	set the_animals to {Â
